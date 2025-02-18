@@ -1,0 +1,38 @@
+  <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      table,th,td{
+          border-style: solid;
+          border-color: rgb(16, 16, 17);
+          /*border-collapse:collapse; */
+          border spacing: 10px;
+          /*background-image: url1("""); */
+      }
+      th,td{
+          width: 60px;
+      }
+    </style>
+  </head>
+  <body>
+    <table>
+      <caption>
+        Title
+      </caption>
+      <tr>
+        <th colspan="2">Name1</th>
+        <!--<th>Rollno</th> -->
+      </tr>
+      <tr>
+        <td rowspan="2">Mousick</td>
+        <td>24bcs232</td>
+      </tr>
+      <tr>
+        <td>Mousick</td>
+        <td>24bcs232</td>
+      </tr>
+      <td>Name1</td>
+      <td
+    </table>
+  </body>
+</html>
